@@ -9,9 +9,9 @@ Open-source repos may be used freely under their respective licenses.
 ## Features
 Integrations
 
-- 📜 [Metronisys™ - Halocracy](./integrations/halocracy.md)
+- 📜 [Metronisys™ - Holacracy](./integrations/holacracy.md)
 
-- 📜 [Metronisys™ - Metronisys x Halocracy](./integrations/metronisys_x_halocracy.md)
+- 📜 [Metronisys™ - Metronisys x Holacracy](./integrations/metronisys_x_holacracy.md)
 
 ## Quick Start
 - TBA
