@@ -6,12 +6,11 @@ Metronisys Manifesto assets
 Commercial use of the name requires permission. 
 Open-source repos may be used freely under their respective licenses.
 
+## Manifesto
+- 📜 [Metronisys™ - Manifesto](./manifesto_v1.0.0.md)
+
 ## Features
-Integrations
-
-- 📜 [Metronisys™ - Holacracy](./integrations/holacracy.md)
-
-- 📜 [Metronisys™ - Metronisys x Holacracy](./integrations/metronisys-x-holacracy.md)
+- TBA
 
 ## Quick Start
 - TBA
