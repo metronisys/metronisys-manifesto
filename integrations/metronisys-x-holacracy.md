@@ -81,15 +81,7 @@ Metronisys (Human Governor)
       --- Workflows
       --- Integrations
     
-# Metronisys-Case-Study – Metronisys™
-
-Metronisys website assets
-
-**Metronisys™** is a trademark of John A. Nudd. 
-Commercial use of the name requires permission. 
-Open-source repos may be used freely under their respective licenses.
-
-## Case Study: UiPath + Holacracy + Metronisys
+# Metronisys-Holacracy-Case-Study – Metronisys™
 
 ### Key Principle
 
