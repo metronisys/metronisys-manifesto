@@ -7,7 +7,11 @@ Commercial use of the name requires permission.
 Open-source repos may be used freely under their respective licenses.
 
 ## Features
-- TBA
+Integrations
+
+- 📜 [Metronisys™ - Halocracy](./integrations/halocracy.md)
+
+- 📜 [Metronisys™ - Metronisys x Halocracy](./integrations/metronisys_x_halocracy.md)
 
 ## Quick Start
 - TBA
