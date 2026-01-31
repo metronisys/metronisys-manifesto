@@ -11,7 +11,7 @@ Integrations
 
 - 📜 [Metronisys™ - Holacracy](./integrations/holacracy.md)
 
-- 📜 [Metronisys™ - Metronisys x Holacracy](./integrations/metronisys_x_holacracy.md)
+- 📜 [Metronisys™ - Metronisys x Holacracy](./integrations/metronisys-x-holacracy.md)
 
 ## Quick Start
 - TBA
