@@ -68,8 +68,19 @@ It is **tool-agnostic** and sits above:
 
 ### Layered Governance Model
 
-Metronisys (Human Governor) │ ├─ Evaluates human impact ├─ Enforces wellbeing boundaries ├─ Limits autonomy when needed │ └─ Holacracy AI (Organizational Governor) │ ├─ Chairs governance meetings ├─ Enforces roles & policies ├─ Records decisions │ └─ UiPath Executors ├─ Automations ├─ Workflows └─ Integrations
-
+Metronisys (Human Governor)
+  - Evaluates human impact
+  - Enforces wellbeing boundaries
+  - Limits autonomy when needed
+  - Holacracy AI (Organizational Governor)
+    -- Chairs governance meetings
+    -- Enforces roles & policies
+    -- Records decisions
+    -- UiPath Executors
+      --- Automations
+      --- Workflows
+      --- Integrations
+    
 # Metronisys-Case-Study – Metronisys™
 
 Metronisys website assets
