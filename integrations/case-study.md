@@ -1,11 +1,17 @@
+# Metronisys-Case-Study – Metronisys™
+
+Metronisys website assets
+
+**Metronisys™** is a trademark of John A. Nudd. 
+Commercial use of the name requires permission. 
+Open-source repos may be used freely under their respective licenses.
+
+## Case Study: UiPath + Holacracy + Metronisys
+
 ### Key Principle
 
 > **Holacracy governs organizations.  
 > Metronisys governs how organizations use humans — and AI.**
-
----
-
-## Case Study: UiPath + Holacracy + Metronisys
 
 ### Context
 
