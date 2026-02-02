@@ -47,6 +47,15 @@ The world offers infinite options, but *more choices do not produce better lives
 
 ---
 
+### Agent Autonomy
+
+Autonomy must always remain bounded by:
+- Human authority
+- Explicit resource constraints
+- Accountability across agent collaboration
+
+---
+
 ## Who This Is For
 
 Metronisys™ is designed for people who:
