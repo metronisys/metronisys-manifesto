@@ -9,6 +9,17 @@ Open-source repos may be used freely under their respective licenses.
 ## Manifesto
 - 📜 [Metronisys™ - Manifesto](./manifesto_v1.0.0.md)
 
+## How the Manifesto Is Enforced
+
+The Metronisys Manifesto is not aspirational.
+Each principle is implemented and enforced in code.
+
+| Principle | Implementation |
+|---------|----------------|
+| Human authority | metronisys-core/decisions.py |
+| Governance first | metronisys-core/governance.py |
+| Transparency | metronisys-core/engine.py |
+
 ## Features
 - TBA
 
