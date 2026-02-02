@@ -16,7 +16,10 @@ Open-source repos may be used freely under their respective licenses.
 - TBA
 
 ## License
-- License type (TBA)
+- Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+See separate license document
+Copyright © 2026 Metronisys™
+All rights reserved.
 
 ## Website
 - www.metronisys.com
