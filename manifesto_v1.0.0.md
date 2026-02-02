@@ -11,37 +11,37 @@ We live in a world reshaped by artificial intelligence, ubiquitous connectivity,
 
 ## Core Philosophy
 
-### 1. Attention Sovereignty
+### MP-01 - Attention Sovereignty
 
 Attention is a finite human resource under constant assault. Notifications, task systems, and AI outputs fragment focus and erode depth. Metronisys™ asserts that *attention is the most valuable human asset* and must be actively governed, protected, and oriented toward long‑term human values rather than short‑term outputs.2
 
 ---
 
-### 2. Energy‑First Living
+### MP-02 - Energy‑First Living
 
 Time is not the true currency of human experience — *biological and cognitive energy are*. Constant output cultures assume energy is unlimited, but it is not. Metronisys™ elevates energy management above time management, emphasizing recovery, pacing, and sustainable cycles that reflect human physiology and psychological resilience.3
 
 ---
 
-### 3. Identity Stability
+### MP-03 - Identity Stability
 
 Modern work often forces people into role overload — balancing multiple identities without coherence or reflection. Metronisys™ recognizes that *identity confusion is a deeper problem than task overload*. The framework emphasizes stable personal identity rooted in values, purpose, and sustainable contribution.4
 
 ---
 
-### 4. AI‑Augmented Human Living
+### MP-04 - AI‑Augmented Human Living
 
 Artificial intelligence should *reduce mental load*, not raise expectations or accelerate burn‑out. Technology must support human goals while preserving agency, dignity, and meaning. AI is a partner in human flourishing, not a driver of impossible expectations.5
 
 ---
 
-### 5. Rhythmic Structure
+### MP-05 - Rhythmic Structure
 
 Rigid routines fail in a dynamic world. Life unfolds in *rhythms* — daily energy variations, weekly cycles, seasonal shifts, and personal growth phases. Metronisys™ structures life around rhythms that adapt to reality rather than enforcing static schedules.6
 
 ---
 
-### 6. Purposeful Simplicity
+### MP-06 - Purposeful Simplicity
 
 The world offers infinite options, but *more choices do not produce better lives*. Clarity and intentional subtraction — of tasks, roles, noise, and distraction — lead to deeper fulfillment and more lasting impact.7
 
