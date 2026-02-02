@@ -1,4 +1,4 @@
-6# Metronisys™ Manifesto
+# Metronisys™ Manifesto
 
 > *A Human‑First Framework for Living and Working in an AI‑Driven World*  
 > Metronisys™ is a trademark of Tony Nudd.
